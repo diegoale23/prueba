@@ -1,0 +1,52 @@
+Uso de CPU: 0.4%
+Uso de memoria: 84.4%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 2.1%
+Uso de memoria: 84.6%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 0.6%
+Uso de memoria: 84.5%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 2.0%
+Uso de memoria: 84.5%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 1.0%
+Uso de memoria: 84.4%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 4.3%
+Uso de memoria: 84.5%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 1.0%
+Uso de memoria: 84.4%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 0.6%
+Uso de memoria: 84.3%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 0.4%
+Uso de memoria: 84.3%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 3.3%
+Uso de memoria: 84.4%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 3.3%
+Uso de memoria: 84.6%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 5.9%
+Uso de memoria: 84.6%
+Uso de disco: 80.7%
+------------------------------
+Uso de CPU: 3.3%
+Uso de memoria: 84.4%
+Uso de disco: 80.7%
+------------------------------
