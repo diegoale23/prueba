@@ -68,4 +68,4 @@ El script continuará ejecutándose de manera indefinida. Para detenerlo, puedes
 Si prefieres modificar el intervalo de monitoreo, ajusta el valor dentro de time.sleep(4) en el script.
 Asegúrate de tener permisos adecuados para acceder a las métricas del sistema.
 
-[Ingrese a este link] (https://github.com/diegoale23/prueba.git)
+Para más información sobre el proyecto, visita nuestro repositorio en [GitHub](https://github.com/diegoale23/prueba.git).
